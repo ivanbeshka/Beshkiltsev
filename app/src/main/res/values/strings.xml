@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFintech</string>
+    <string name="not_connection_to_internet">Подключение к интернету отсутствует!</string>
+    <string name="repeat">Повторить</string>
+</resources>
